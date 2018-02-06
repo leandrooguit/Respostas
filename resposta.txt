@@ -8,4 +8,7 @@ Questões:
 6 - Certo
 7 - Errado
 8 - Projeto NumeroInteiro
+https://github.com/leandrooguit/Respostas/tree/master/NumeroInteiro
+
 9 - Projeto Arvore
+https://github.com/leandrooguit/Respostas/tree/master/Arvore
