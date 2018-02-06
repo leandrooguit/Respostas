@@ -1,0 +1,11 @@
+Questões:
+
+1 - A
+2 - D
+3 - C
+4 - A
+5 - D
+6 - Certo
+7 - Errado
+8 - Projeto NumeroInteiro
+9 - Projeto Arvore
